@@ -7,7 +7,7 @@ This repository contains a fast style transfer implementation using PyTorch. It 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Models](#models)
-- [License](#license)
+
 
 ## Installation
 
