@@ -1,28 +1,11 @@
-# Fast Style Transfer
+## 🚀 How to Run This Project
 
-This repository contains a fast style transfer implementation using PyTorch. It allows you to apply artistic styles to images and videos using pretrained models.
+Follow the steps below to run the project on your local machine.
 
-## Table of Contents
+---
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Models](#models)
-
-
-## Installation
-
-from google.colab import drive
-drive.mount('/content/drive')
-pip install torch torchvision Pillow
+### 1️⃣ Clone the Repository
 
 ```bash
-!git clone https://github.com/igreat/fast-style-transfer.git
-%cd fast-style-transfer
-
-Models
-Available pretrained models:
-
-starry_night
-rain_princess
-mosaic
-abstract
+git clone https://github.com/USERNAME/REPOSITORY.git
+cd REPOSITORY
